@@ -1,0 +1,11 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/lib
+*.a
+*.exe
+*.o
+*.obj
+*.lst
+.DS_Store

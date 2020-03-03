@@ -1,0 +1,6 @@
+{
+	"name": "ldc-test",
+	"dependencies": {
+		"foo": { "path": "./lib" }
+	}
+}

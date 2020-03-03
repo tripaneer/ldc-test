@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ldc-test
+ldc-test.so
+ldc-test.dylib
+ldc-test.dll
+ldc-test.a
+ldc-test.lib
+ldc-test-test-*
+*.exe
+*.o
+*.obj
+*.lst
+.DS_Store
